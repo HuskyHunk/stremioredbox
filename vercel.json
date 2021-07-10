@@ -1,0 +1,4 @@
+{ "version": 2, "name": "stremio-redboxtv", "builds": [ 
+{ "src": "build/server.js", "use": "@vercel/node" } ], "routes": [ { "src": "/.*", "dest": "/build/server.js" } ]
+} 
+
