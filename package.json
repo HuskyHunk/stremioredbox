@@ -5,7 +5,7 @@
   "author": "Sleeyax <yourd3veloper@gmail.com>",
   "homepage": "https://github.com/sleeyax/stremio-addons#readme",
   "license": "MIT",
-  "main": "build/server.js",
+  "main": "src/server.js",
   "directories": {
     "lib": "build"
   },
@@ -21,7 +21,7 @@
   },
   "scripts": {
     "tsc": "tsc",
-"start": "node server.js"
+"start": "node src/server.js"
   },
 
   "bugs": {
