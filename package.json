@@ -21,7 +21,7 @@
   },
   "scripts": {
     "tsc": "tsc",
-"start": "node build/server.js"
+"start": "node server.js"
   },
 
   "bugs": {
