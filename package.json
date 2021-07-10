@@ -20,8 +20,10 @@
     "url": "git+https://github.com/sleeyax/stremio-addons.git"
   },
   "scripts": {
-    "tsc": "tsc"
+    "tsc": "tsc",
+"start": "node server.js"
   },
+
   "bugs": {
     "url": "https://github.com/sleeyax/stremio-addons/issues"
   },
